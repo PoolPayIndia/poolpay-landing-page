@@ -11470,6 +11470,11 @@ section.cta:before {
   max-width: 10rem;
 }
 
+.social-icon {
+  fill: white;
+  width: 30px;
+}
+
 @media (min-width: 576px) {
   .features-device-mockup .circle {
     width: 70%;
@@ -11581,6 +11586,11 @@ footer a:hover, footer a:active, footer a:focus {
 .masthead .masthead-device-mockup .device-wrapper {
   max-width: 10rem;
 }
+
+#download {
+  background-color: #f8f9fa;
+}
+
 @media (min-width: 576px) {
   .masthead .masthead-device-mockup .circle {
     width: 70%;
