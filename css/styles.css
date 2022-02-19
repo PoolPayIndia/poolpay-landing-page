@@ -11366,7 +11366,7 @@ section {
   padding: 0.75rem 1rem;
   color: #212529;
   color: white;
-
+  border-color: white;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   color: #212529;
