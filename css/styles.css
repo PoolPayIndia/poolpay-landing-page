@@ -9590,7 +9590,7 @@ html {
   background: -webkit-linear-gradient(var(--bs-primary), var(--bs-secondary));
   background-clip: text;
   -webkit-background-clip: text;
-  /* -webkit-text-fill-color: transparent; */
+  -webkit-text-fill-color: var(--bs-primary);
 }
 
 aside,
