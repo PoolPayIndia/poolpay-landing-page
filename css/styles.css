@@ -124,8 +124,13 @@
   border-width: 0px;
   text-align: left;
   font-size: large;
-  background-color: black;
-  color: var(--bs-primary);
+  font-weight: bold;
+  /* background-color: #151515; */
+  /* color: var(--bs-primary); */
+  background-color: var(--bs-gray-100);
+  /* color: var(--bs-primary); */
+  color: #151515;
+
 
 }
 .accordion-body {
@@ -2040,7 +2045,7 @@ progress {
   display: inline-block;
   font-weight: 500;
   line-height: 1.5;
-  color: #212529;
+  color: #151515;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
@@ -2999,7 +3004,7 @@ progress {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #212cc0;
+  color: var(--bs-primary)
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -9615,8 +9620,7 @@ section {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #fff;
-  background-color: black;
+  background-color: #151515
 
 }
 #mainNav .navbar-brand {
@@ -9781,8 +9785,12 @@ section.cta:before {
   width: 30px;
 }
 
+.social-icon:hover {
+  fill: var(--bs-primary);
+}
+
 #community .social-icon {
-  fill: black;
+  fill: #151515;
   width: 100px;
 }
 
@@ -9903,6 +9911,16 @@ footer a:hover, footer a:active, footer a:focus {
 
 #download {
   background-color: #f8f9fa;
+}
+
+#download-main {
+  text-decoration: none;
+  font-size: 20px;
+  color: white
+}
+
+#download-main:hover {
+  color: var(--bs-primary)
 }
 
 @media (min-width: 576px) {
