@@ -9,9 +9,8 @@
 
 AOS.init();
 
-
-
 window.addEventListener('DOMContentLoaded', event => {
+    AOS.refresh();
 
     // Activate Bootstrap scrollspy on the main nav element
     const mainNav = document.body.querySelector('#mainNav');
