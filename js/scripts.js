@@ -7,7 +7,10 @@
 // Scripts
 // 
 
-AOS.init();
+AOS.init({
+    once: true,
+    offset: (window.innerHeight * .4)
+});
 
 window.addEventListener('DOMContentLoaded', event => {
     AOS.refresh();
