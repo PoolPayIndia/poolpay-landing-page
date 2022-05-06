@@ -9909,18 +9909,36 @@ footer a:hover, footer a:active, footer a:focus {
   max-width: 10rem;
 }
 
-#download {
+#cta {
   background-color: #f8f9fa;
 }
 
-#download-main {
+#cta-main {
   text-decoration: none;
   font-size: 20px;
   color: white
 }
 
-#download-main:hover {
+#cta-main:hover {
   color: var(--bs-primary)
+}
+
+.person {
+  display: block;
+  width: 100%;
+
+}
+
+.pic {
+  display: inline-block;
+  width: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+.desc {
+  text-align: center;
 }
 
 @media (min-width: 576px) {
