@@ -9985,3 +9985,8 @@ footer a:hover, footer a:active, footer a:focus {
     max-width: 17rem;
   }
 }
+
+pre { 
+  white-space: pre-wrap; 
+  word-break: break-word;
+}
