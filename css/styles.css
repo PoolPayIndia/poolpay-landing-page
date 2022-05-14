@@ -9934,21 +9934,13 @@ footer a:hover, footer a:active, footer a:focus {
   width: 100%;
   border-radius: 50%;
   object-fit: cover;
-  border-color: var(--bs-primary);
+  /* border-color: var(--bs-primary);
   outline: 6px solid var(--bs-primary);
-  outline-offset: -3px;
+  outline-offset: -3px; */
+  border: 6px solid var(--bs-primary);
+  object-fit: cover;
 }
 
-@supports (-webkit-touch-callout: none) {
-  /* CSS specific to iOS devices */ 
-  .pic {
-    border: 6px solid var(--bs-primary);
-    object-fit: cover;
-    margin: 0px;
-    padding: 0px
-  }
-
-}
 
 .desc {
   text-align: center;
