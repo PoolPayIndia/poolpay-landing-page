@@ -1,0 +1,60 @@
+[
+	{
+	  "children": [
+		{
+		  "topic": "poolpay",
+		  "question": "What is PoolPay?",
+		  "answer": "poolpay is a cool app"
+		},
+		{
+		  "topic": "poolpay",
+		  "question": "Why PoolPay?",
+		  "answer": "because we wanted to"
+		}
+	  ],
+	  "topic": "poolpay",
+	  "count": 2
+	},
+	{
+	  "children": [
+		{
+		  "topic": "onboarding",
+		  "question": "where can I find the app",
+		  "answer": "in app store"
+		},
+		{
+		  "topic": "onboarding",
+		  "question": "what documents I need for regsiteration",
+		  "answer": "pan card for kyc"
+		},
+		{
+		  "topic": "onboarding",
+		  "question": "how logn for kyc to register",
+		  "answer": "sometime it will take"
+		}
+	  ],
+	  "topic": "onboarding",
+	  "count": 3
+	},
+	{
+	  "children": [
+		{
+		  "topic": "quicksplit",
+		  "question": "what is quicksplit",
+		  "answer": "it is an app feature"
+		},
+		{
+		  "topic": "quicksplit",
+		  "question": "can my friends not on the app pay me?",
+		  "answer": "yes!"
+		},
+		{
+		  "topic": "quicksplit",
+		  "question": "how does it work",
+		  "answer": "why do you care"
+		}
+	  ],
+	  "topic": "quicksplit",
+	  "count": 3
+	}
+]
