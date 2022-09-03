@@ -4,57 +4,67 @@
 		{
 		  "topic": "poolpay",
 		  "question": "What is PoolPay?",
-		  "answer": "poolpay is a cool app"
+		  "answer": "PoolPay is a group payments platform, wherein you pool money into a common digital wallet with your peers. The funds can be collectively used for all your group related payments. These payments take place via your very own Rupay Virtual Card."
 		},
 		{
 		  "topic": "poolpay",
 		  "question": "Why PoolPay?",
-		  "answer": "because we wanted to"
+		  "answer": "1. You only pay for your share\n2. Skip awkwardness around money.\n3. Easy tracking of expenses"
+		},
+		{
+		  "topic": "poolpay",
+		  "question": "What can I use PoolPay for?",
+		  "answer": "You can use PoolPay to do a ton of useful things -\n1. Create an expense group with your friends which also doubles down as a shared wallet.\n2. Track, make and settle group related payments from your shared digital wallet.\n3. Track and make personal payments.\n4. Split one time bill payments using our QuickSplit feature.\n5. Save money through great offers, cashbacks and rewards through card payments. "
+		},
+		{
+		  "topic": "poolpay",
+		  "question": "How is PoolPay different from its competitors?",
+		  "answer": "While other apps rely on manual entry of expenses and inefficient ways to settle payments, PoolPay allows you to reduce this work by giving you and your friends a shared digital wallet that can be used to make all payments that are common amongst the group members."
 		}
 	  ],
 	  "topic": "poolpay",
+	  "count": 4
+	},
+	{
+	  "children": [
+		{
+		  "topic": "onboarding",
+		  "question": "Where can I find the app?",
+		  "answer": "PoolPay is availble for download on iOS App Store and Google Play Store"
+		},
+		{
+		  "topic": "onboarding",
+		  "question": "What documents do I need for registeration?",
+		  "answer": "For the Min KYC process, we require the following -\n1. Name\n2. Date of Birth\n3. Pan Card number\n4. Mobile Number\n5. Address"
+		}
+	  ],
+	  "topic": "onboarding",
 	  "count": 2
 	},
 	{
 	  "children": [
 		{
-		  "topic": "onboarding",
-		  "question": "where can I find the app",
-		  "answer": "in app store"
+		  "topic": "virtual card",
+		  "question": "Where can I find my virtual card details?",
+		  "answer": "Virtual Card details can be found on the app home screen. The front of the card shows the wallet/ group balance. The back side of the card has the card number, cvv, expiry date and name of the card holder. You can flip the card via a tab on the top right corner of the card."
 		},
 		{
-		  "topic": "onboarding",
-		  "question": "what documents I need for regsiteration",
-		  "answer": "pan card for kyc"
+		  "topic": "virtual card",
+		  "question": "How do I use my virual card for payments?",
+		  "answer": "1. On the home screen click on the menu just below the virtual card to select the group you would like to activate payments for.\n2. Once the desired group is activated, copy the card details enter them on the checkout screen of the app/website where you wish to make the payment.\n3. Once you enter the otp during the payment process, the payment via the card will be complete. \n4. The new group balance will be reflected on the app."
 		},
 		{
-		  "topic": "onboarding",
-		  "question": "how logn for kyc to register",
-		  "answer": "sometime it will take"
+		  "topic": "virtual card",
+		  "question": "How long will my card be active for a group after activation?",
+		  "answer": "The card will be active for a group for 15 minutes. After that, the card will go back to its default activation state where it is activated for your personal wallet."
+		},
+		{
+		  "topic": "virtual card",
+		  "question": "Somone besides me has gotten access to my card information. What do I do?",
+		  "answer": "Please reach out to us at support@poolpay.in adn we will help you block your card and report any unauthorised transaction."
 		}
 	  ],
-	  "topic": "onboarding",
-	  "count": 3
-	},
-	{
-	  "children": [
-		{
-		  "topic": "quicksplit",
-		  "question": "what is quicksplit",
-		  "answer": "it is an app feature"
-		},
-		{
-		  "topic": "quicksplit",
-		  "question": "can my friends not on the app pay me?",
-		  "answer": "yes!"
-		},
-		{
-		  "topic": "quicksplit",
-		  "question": "how does it work",
-		  "answer": "why do you care"
-		}
-	  ],
-	  "topic": "quicksplit",
-	  "count": 3
+	  "topic": "virtual card",
+	  "count": 4
 	}
 ]

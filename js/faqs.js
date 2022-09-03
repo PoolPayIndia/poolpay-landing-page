@@ -13,6 +13,7 @@ fetch('../assets/files/faqs.json')
 		faqs.forEach(function(parentObj){
 
 			// console.log(parentObj.children)
+			nodeEntry.insertAdjacentHTML('beforeend','<br />');
 
 			parentObj.children.forEach(function(obj){
 
@@ -52,3 +53,14 @@ fetch('../assets/files/faqs.json')
 
 
 					
+/* 
+https://jsonifyit.com/
+
+step 2.
+header - yes
+
+step 3.
+base structure - records
+name key - add level - topic
+update preview
+*/
