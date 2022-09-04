@@ -66,5 +66,36 @@
 	  ],
 	  "topic": "Virtual card",
 	  "count": 4
+	},
+	{
+		"children": [
+		  {
+			"topic": "group wallet",
+			"question": "How do I deposit money in my group wallet?",
+			"answer": "You can deposit money in your group wallet via the payment mode of your choice (UPI, card, Netbanking etc) or you could also deposit money via your personal wallet."
+		  },
+		  {
+			"topic": "group wallet",
+			"question": "How do I recharge my personal wallet?",
+			"answer": "You can deposit money in your personal wallet via the payment mode of your choice (UPI, card, Netbanking etc)"
+		  },
+		  {
+			"topic": "group wallet",
+			"question": "Who has access to the funds in the group wallet?",
+			"answer": "All members of the group can make use of the funds available in the group wallet"
+		  },
+		  {
+			"topic": "group wallet",
+			"question": "Can I also record payments that were not made via the app?",
+			"answer": "Yes you can! you can manually add external transactions and even choose the payment split for the group members involved."
+		  },
+		  {
+			"topic": "group wallet",
+			"question": "I made a group payment but i would like to change the individual split of the members. How can i do that?",
+			"answer": "1. Find the transaction bubble in the group chat section.\n2. Click on it to view all the details of that group payment. \n3. In that screen, you will find an edit button on the top right corner. click on it.\n4. You will now be able to change the list of members involved, their individual share for the payment, payment category etc."
+		  }
+		],
+		"name": "group wallet",
+		"count": 5
 	}
 ]
