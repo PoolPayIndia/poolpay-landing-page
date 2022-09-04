@@ -95,7 +95,7 @@
 			"answer": "1. Find the transaction bubble in the group chat section.\n2. Click on it to view all the details of that group payment. \n3. In that screen, you will find an edit button on the top right corner. click on it.\n4. You will now be able to change the list of members involved, their individual share for the payment, payment category etc."
 		  }
 		],
-		"name": "group wallet",
+		"topic": "Group Wallet",
 		"count": 5
 	}
 ]
