@@ -12,8 +12,12 @@ fetch('../assets/files/faqs.json')
 		
 		faqs.forEach(function(parentObj){
 
+			
 			// console.log(parentObj.children)
+			
+			heading = `<h3 class="heading">`+parentObj.topic+`</h3>`
 			nodeEntry.insertAdjacentHTML('beforeend','<br />');
+			nodeEntry.insertAdjacentHTML('beforeend', heading);
 
 			parentObj.children.forEach(function(obj){
 
