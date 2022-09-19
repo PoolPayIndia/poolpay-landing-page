@@ -51,3 +51,6 @@ fetch('../assets/files/faqs.json')
 		})
 
 	}) 
+
+
+// https://www.convertcsv.com/csv-to-json.htm

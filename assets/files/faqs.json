@@ -112,7 +112,7 @@
 	{
 	  "topic": "Account",
 	  "question": "How do I reset my password?",
-	  "answer": "There is no password reset option as we only provide an OTP  login. If you feel that your account has been compromised, write to us at support@poolpay.in and we can temporarily block transactions from your account."
+	  "answer": "There is no password reset option as we only provide an OTP login. If you feel that your account has been compromised, write to us at support@poolpay.in and we can temporarily block transactions from your account."
 	},
 	{
 	  "topic": "Account",
@@ -128,5 +128,15 @@
 	  "topic": "Account",
 	  "question": "Who can see my expenses and balances? How do I keep certain expenses and balances private?",
 	  "answer": "Everyone who is a part of the group can see the group expenses and balances. However, in Your personal wallet, the balances and expenses will be private."
+	},
+	{
+	  "topic": "Account",
+	  "question": "I am facing an issue while submitting my KYC",
+	  "answer": "Please reach out to us at support@poolpay.in with details for the same and we will help you out."
+	},
+	{
+	  "topic": "Account",
+	  "question": "Are there any kind of limits on payments made via the app?",
+	  "answer": "As Per RBI Guidelines, the following limits apply -\n\nFor Min KYC Wallet -\nAccount Balance                Rs. 10,000\nMonthly Spend                Rs. 10,000\nAnnual Spend                Rs. 1,20,000\nTransaction                Rs. 10,000\n\nFor Full KYC Wallet -\nAccount Balance                Rs. 2,00,000\nMonthly Spend                No Limit\nAnnual Spend                No Limit\nTransaction                Rs. 2,00,000\n\nThese limits are applicable on your overall deposits and withdrawals across your PoolPay account and not just your personal wallet. "
 	}
 ]
